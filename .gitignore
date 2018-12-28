@@ -1,0 +1,10 @@
+# ignore dependencies
+node_modules/
+
+# ignore logs
+logs
+*.log
+npm-debug.log*
+
+# ignore distribution folder
+distribution/
